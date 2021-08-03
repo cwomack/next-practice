@@ -5,3 +5,5 @@ function HomePage() {
 }
 
 export default HomePage;
+
+// Finish with boilerplate/practice app
